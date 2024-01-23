@@ -1,0 +1,6 @@
+﻿  Classes.cpp
+  Dungeon.cpp
+  game.cpp
+E:\projects\vs\game\game\game.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  game.vcxproj -> E:\projects\vs\game\x64\Debug\game.exe
